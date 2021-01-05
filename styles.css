@@ -1,0 +1,42 @@
+body {
+  background-color: #EAF6F6;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  margin: 50px auto;
+}
+
+h1 {
+  color: red;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: red;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: red;
+  font-family: 'Montserrat', sans-serif;
+}
+
+table {
+  text-align: left;
+}
+
+.director{
+  text-align: justify;
+
+}
+
+.hod{
+  text-align: justify;
+
+}
